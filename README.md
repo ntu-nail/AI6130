@@ -35,9 +35,9 @@ By the end of this course, you should be able to:
 
 **Final Project (Group work but individually graded)**
 
-- There will be a final project contributing to the remaining 40% of the total coursework assessment.
+- There will be a final project contributing to the remaining ***50%*** of the total coursework assessment.
   - ***3–6*** people per group
-  - Project proposal: ***5%***, presentation: ***15%***, report: **30%***
+  - Project proposal: ***5%***, presentation: ***15%***, report: ***30%***
 - The project will be group work but the students will be graded individually. The final project presentation will ensure the student’s understanding of the project
 
 <!-- # Course Prerequisites
