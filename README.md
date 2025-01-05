@@ -31,7 +31,7 @@ By the end of this course, you should be able to:
 **Assignments (individually graded)**
 
 - There will be two (2) assignments contributing to ***2 * 25% = 50%*** of the total assessment.
-- Students will be graded individually on the assignments. They will be allowed to discuss with each other on the homework assignments, but they are required to submit individual write-ups and coding exercises.
+- Students will be graded individually on the assignments. They will be allowed to discuss with each other on the homework assignments, but they are required to submit individual write-ups and coding exercises.
 
 **Final Project (Group work but individually graded)**
 
