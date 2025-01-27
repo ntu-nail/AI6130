@@ -134,3 +134,26 @@ By the end of this course, you should be able to:
 - [Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings](https://www.aclweb.org/anthology/D15-1168/)
 - [Sequence to Sequence Learning with Neural Networks (original seq2seq NMT paper)](https://arxiv.org/pdf/1409.3215.pdf)
 - [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)
+
+
+## Week 3: Language Models
+
+[Lecture Slide](https://drive.google.com/file/d/1IUgxN21v2u528hWvOtOiiLJN_J_1CH74/view?usp=sharing)
+
+### Lecture Content
+
+- Language model
+- N-gram based LM
+- Window-based Language Model
+- Neural Language Models
+- Encoder-decoder
+- Seq2Seq
+- Sampling algorithms
+- Beam search
+
+### Suggested Readings
+
+- [Sequence to Sequence Learning with Neural Networks (original seq2seq NMT paper)](https://arxiv.org/pdf/1409.3215.pdf)
+- [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
+- [Karpathy’s nice blog on Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [Building an Efficient Neural Language Model](https://research.fb.com/building-an-efficient-neural-language-model-over-a-billion-words/)
