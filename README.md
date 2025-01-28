@@ -140,6 +140,8 @@ By the end of this course, you should be able to:
 
 [Lecture Slide](https://drive.google.com/file/d/1IUgxN21v2u528hWvOtOiiLJN_J_1CH74/view?usp=sharing)
 
+[Recording of Lecture 3](https://drive.google.com/file/d/1CiqGLKrAMRRuVdrgzx4Ce_UcFqCLUCKk/view?usp=drive_link)
+
 ### Lecture Content
 
 - Language model
