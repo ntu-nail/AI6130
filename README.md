@@ -163,6 +163,7 @@ By the end of this course, you should be able to:
 ## Week 4: Attention and Transformer
 
 [Lecture Slide](https://drive.google.com/file/d/1rNQctj-bg8NwDjeftIty6B_9rbrWiYxB/view?usp=sharing)
+
 [Final Project Groups](https://docs.google.com/spreadsheets/d/1rtQcBkbgpK8Sbn42Ffq2b15nThiV8t-7_f--6YMvHOM/edit?usp=drive_link)
 
 ### Lecture Content
