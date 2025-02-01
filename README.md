@@ -159,3 +159,25 @@ By the end of this course, you should be able to:
 - [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 - [Karpathy’s nice blog on Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Building an Efficient Neural Language Model](https://research.fb.com/building-an-efficient-neural-language-model-over-a-billion-words/)
+
+## Week 4: Attention and Transformer
+
+[Lecture Slide](https://drive.google.com/file/d/1rNQctj-bg8NwDjeftIty6B_9rbrWiYxB/view?usp=sharing)
+[Final Project Groups](https://docs.google.com/spreadsheets/d/1rtQcBkbgpK8Sbn42Ffq2b15nThiV8t-7_f--6YMvHOM/edit?usp=drive_link)
+
+### Lecture Content
+
+- Information bottleneck issue with vanilla Seq2Seq
+- Attention to the rescue
+- Details of attention mechanism
+- Transformer architecture
+  - Self-attention
+  - Positional encoding
+  - Multi-head attention
+
+
+### Suggested Readings
+
+- [Neural Machine Translation by Jointly Learning to Align and Translate (original seq2seq+attention paper)](https://arxiv.org/pdf/1409.0473.pdf)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
