@@ -185,7 +185,7 @@ By the end of this course, you should be able to:
 
 ## Week 5: Effective Transformers
 
-[Lecture Slide](https://drive.google.com/file/d/1rNQctj-bg8NwDjeftIty6B_9rbrWiYxB/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1JHQF1D73yzFm29LDsaYQwPh7xu2EXE9l/view?usp=drive_link)
 
 ### Lecture Content
 
