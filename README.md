@@ -182,3 +182,24 @@ By the end of this course, you should be able to:
 - [Neural Machine Translation by Jointly Learning to Align and Translate (original seq2seq+attention paper)](https://arxiv.org/pdf/1409.0473.pdf)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+## Week 5: Effective Transformers
+
+[Lecture Slide](https://drive.google.com/file/d/1rNQctj-bg8NwDjeftIty6B_9rbrWiYxB/view?usp=sharing))
+
+### Lecture Content
+
+- FFN
+- Mixture of Experts
+- Attention
+- Layer Norm
+- Positional Encoding
+
+### Suggested Readings
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- Hendrycks and Gimpel. 2016. Gaussian Error Linear Units. 
+- Ramachandran et al. 2017. Searching for Activation Functions.
+- Shazeer 2017. GLU Variants Improve Transformer
+- Ainslie et al. 2023. GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints
+- Noam Shazeer. 2019. Fast transformer decoding: One write-head is all you need.
+- DeepSeek team. DeepSeek-V2
