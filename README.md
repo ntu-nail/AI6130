@@ -187,6 +187,8 @@ By the end of this course, you should be able to:
 
 [Lecture Slide](https://drive.google.com/file/d/1JHQF1D73yzFm29LDsaYQwPh7xu2EXE9l/view?usp=drive_link)
 
+[Instruction to choose final project's topic](https://drive.google.com/file/d/1DPS7vx1pa6k5rZM1rbIJl5vW4KtmDSvk/view?usp=sharing)
+
 ### Lecture Content
 
 - FFN
