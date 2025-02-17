@@ -211,7 +211,6 @@ By the end of this course, you should be able to:
 [Lecture Slide](https://drive.google.com/file/d/1KTQMf2Tg5rqEZgdEFdTNkGCeEATG4ytW/view?usp=sharing)
 
 ### Lecture Content
-
 - About pre-training
 - Why we need pre-training
 - Does pre-training indeed help?
@@ -230,5 +229,5 @@ By the end of this course, you should be able to:
 - Jiang, Albert Q., et al. Mixtral of Experts. arXiv:2401.04088, arXiv, 8 Jan. 2024. arXiv.org, https://doi.org/10.48550/arXiv.2401.04088.
 
 ### Practical
-Finetune pretrained language model: https://huggingface.co/docs/transformers/en/training
-LLM prompting: https://huggingface.co/docs/transformers/main/en/tasks/prompting
+- Finetune pretrained language model: https://huggingface.co/docs/transformers/en/training
+- LLM prompting: https://huggingface.co/docs/transformers/main/en/tasks/prompting
