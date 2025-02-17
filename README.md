@@ -205,3 +205,30 @@ By the end of this course, you should be able to:
 - Ainslie et al. 2023. GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints
 - Noam Shazeer. 2019. Fast transformer decoding: One write-head is all you need.
 - DeepSeek team. DeepSeek-V2
+
+## Week 6: Pretrained Language Models and Large Language Models
+
+[Lecture Slide](https://drive.google.com/file/d/1KTQMf2Tg5rqEZgdEFdTNkGCeEATG4ytW/view?usp=sharing)
+
+### Lecture Content
+
+- About pre-training
+- Why we need pre-training
+- Does pre-training indeed help?
+- Pre-trained Language models
+- Large Language Models
+
+
+### Suggested Readings
+- Chang, Y., Wang, X., Wang, J., Wu, Y., Zhu, K., Chen, H., Yang, L., Yi, X., Wang, C., Wang, Y., Ye, W., Zhang, Y., Chang, Y., Yu, P.S., Yang, Q., & Xie, X. (2023). A Survey on Evaluation of Large Language Models. ArXiv, abs/2307.03109
+- Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). Exploring the limits of transfer learning with a unified text-to-text transformer. The Journal of Machine Learning Research, 21(1), 5485-5551.
+- A. Vaswani et al., “Attention is All you Need,” in Advances in Neural Information Processing Systems (NeurIPS), 2017.
+- Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. Advances in neural information processing systems, 33, 1877-1901.
+- Chowdhery, A., Narang, S., Devlin, J., Bosma, M., Mishra, G., Roberts, A., ... & Fiedel, N. (2023). Palm: Scaling language modeling with pathways. Journal of Machine Learning Research, 24(240), 1-113.
+- Chen, Mark, et al. Evaluating Large Language Models Trained on Code. arXiv:2107.03374, arXiv, 14 July 2021. arXiv.org, https://doi.org/10.48550/arXiv.2107.03374.
+- Touvron, Hugo, et al. Llama 2: Open Foundation and Fine-Tuned Chat Models. arXiv:2307.09288, arXiv, 19 July 2023. arXiv.org, https://doi.org/10.48550/arXiv.2307.09288.
+- Jiang, Albert Q., et al. Mixtral of Experts. arXiv:2401.04088, arXiv, 8 Jan. 2024. arXiv.org, https://doi.org/10.48550/arXiv.2401.04088.
+
+### Practical
+Finetune pretrained language model: https://huggingface.co/docs/transformers/en/training
+LLM prompting: https://huggingface.co/docs/transformers/main/en/tasks/prompting
