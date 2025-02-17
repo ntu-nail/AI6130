@@ -229,5 +229,5 @@ By the end of this course, you should be able to:
 - Jiang, Albert Q., et al. Mixtral of Experts. arXiv:2401.04088, arXiv, 8 Jan. 2024. arXiv.org, https://doi.org/10.48550/arXiv.2401.04088.
 
 ### Practical
-- Finetune pretrained language model: https://huggingface.co/docs/transformers/en/training
+- Using pretrained language model for classification: https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/pytorch/sequence_classification.ipynb
 - LLM prompting: https://huggingface.co/docs/transformers/main/en/tasks/prompting
