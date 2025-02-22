@@ -1,4 +1,4 @@
-# AI6130: Large Language Models
+![image](https://github.com/user-attachments/assets/ea9e6e31-28ac-4987-ae75-5fb86d6f8a88)# AI6130: Large Language Models
 
 # Course Objectives
 
@@ -231,3 +231,18 @@ By the end of this course, you should be able to:
 ### Practical
 - Using pretrained language model for classification: https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/pytorch/sequence_classification.ipynb
 - LLM prompting: https://huggingface.co/docs/transformers/main/en/tasks/prompting
+
+## Week 7: LLM finetuning
+
+[Lecture Slide](https://drive.google.com/file/d/1mosUrnlqv5_x8g_OohxscGBUn_dJNxAg/view?usp=sharing)
+
+Assignment 1 is out [here](https://drive.google.com/file/d/1nZ1ve182fOwzFIlImCnjO1dqNBO7kFWi/view?usp=sharing). **Deadline: 24 March 2025**.
+
+### Lecture Content
+
+- LLM full finetuning
+- In-context learning
+- Parameter-efficient finetuning
+- Instruction finetuning
+
+
