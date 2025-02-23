@@ -236,7 +236,7 @@ By the end of this course, you should be able to:
 
 [Lecture Slide](https://drive.google.com/file/d/1mosUrnlqv5_x8g_OohxscGBUn_dJNxAg/view?usp=sharing)
 
-Assignment 1 is out [here](https://drive.google.com/file/d/1nZ1ve182fOwzFIlImCnjO1dqNBO7kFWi/view?usp=sharing). **Deadline: 24 March 2025**.
+Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhVcusmjQCb-_uuWUd/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 24 March 2025**.
 
 ### Lecture Content
 
