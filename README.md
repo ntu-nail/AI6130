@@ -245,4 +245,16 @@ Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhV
 - Parameter-efficient finetuning
 - Instruction finetuning
 
+## Week 7: Instruction tuning & RLHF
+
+[Lecture Slide](https://drive.google.com/file/d/1YV4tGxIMLw0DDniJ9MWQ4OkiondyNc3z/view?usp=sharing)
+
+### Lecture Content
+
+- Instruction tuning
+- Multitask Prompted Training Enables Zero-shot Task Generalization (T0)
+- LIMA: Less Is More for Alignment
+- Instructed GPT
+
+
 
