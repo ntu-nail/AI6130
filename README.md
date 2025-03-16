@@ -256,5 +256,14 @@ Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhV
 - LIMA: Less Is More for Alignment
 - Instructed GPT
 
+## Week 9: RLHF recap & DPO
+
+[Lecture Slide](https://drive.google.com/file/d/1IKYgns-6uDrF2dqF0eJnynAeh9VIQzYH/view?usp=sharing)
+
+### Lecture Content
+
+- Reinforcement learning from human feedback (RLHF)
+- Direct preference optimization (DPO)
+- Frontier, pitfalls and open problems of RLHF
 
 
