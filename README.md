@@ -266,4 +266,17 @@ Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhV
 - Direct preference optimization (DPO)
 - Frontier, pitfalls and open problems of RLHF
 
+## Week 10: LLM Prompting
+
+[Lecture Slide](https://drive.google.com/file/d/15YAo6GjRGwbMuNO_BuJK_Jic7VuvRLSg/view?usp=sharing)
+
+### Lecture Content
+
+- Chain-of-Thought Prompting
+- Self-Consistency Improves Chain of Thought Reasoning in Language Models
+- Tree of Thoughts Prompting
+- Program of Thoughts Prompting
+- Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
+- Measuring and Narrowing the Compositionality Gap in Language Models
+
 
