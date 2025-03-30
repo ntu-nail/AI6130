@@ -1,4 +1,4 @@
-# AI6130: Large Language Models
+![image](https://github.com/user-attachments/assets/1af5e1fc-2c4d-4a53-beb6-b963e8f0053f)# AI6130: Large Language Models
 
 # Course Objectives
 
@@ -279,4 +279,16 @@ Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhV
 - Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
 - Measuring and Narrowing the Compositionality Gap in Language Models
 
+## Week 11: Retrieval-augmented LMs
 
+[Lecture Slide](https://drive.google.com/file/d/1TKDO6LlSiDJ6RTQdXe-tVXFQFp3rzZm8/view?usp=sharing)
+
+Assignment 2 is out [here](https://docs.google.com/document/d/1iVhPjFRVUMn9yBpoEbYVw_7jx9QdxtSt/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 22 April 2025**.
+
+### Lecture Content
+
+- Limitations of parametric LLMs 
+- What are retrieval-augmented LMs?
+- Benefit of retrieval-augmented LMs
+- Past: Architecture and training of retrieval-augmented LMs for downstream tasks
+- Present: Retrieval-augmented generation with LLMs
