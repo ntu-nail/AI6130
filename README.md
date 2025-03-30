@@ -1,4 +1,4 @@
-AI6130: Large Language Models
+# AI6130: Large Language Models
 
 # Course Objectives
 
