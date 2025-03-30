@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1af5e1fc-2c4d-4a53-beb6-b963e8f0053f)# AI6130: Large Language Models
+AI6130: Large Language Models
 
 # Course Objectives
 
