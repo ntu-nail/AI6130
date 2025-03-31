@@ -285,6 +285,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhV
 
 Assignment 2 is out [here](https://docs.google.com/document/d/1iVhPjFRVUMn9yBpoEbYVw_7jx9QdxtSt/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 22 April 2025**.
 
+Instruction for final project report [here](https://drive.google.com/file/d/1LHrLHOA3OzGEJWkvCk419wba2k9-og2R/view?usp=sharing)
+
 ### Lecture Content
 
 - Limitations of parametric LLMs 
