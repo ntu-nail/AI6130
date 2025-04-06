@@ -1,4 +1,4 @@
-# AI6130: Large Language Models
+![image](https://github.com/user-attachments/assets/4e1eb25f-494b-47e2-92c9-b32ce7653a28)# AI6130: Large Language Models
 
 # Course Objectives
 
@@ -294,3 +294,16 @@ Instruction for final project report [here](https://drive.google.com/file/d/1_7U
 - Benefit of retrieval-augmented LMs
 - Past: Architecture and training of retrieval-augmented LMs for downstream tasks
 - Present: Retrieval-augmented generation with LLMs
+
+## Week 12: Eﬃcient Inference Methods
+
+[Lecture Slide](https://drive.google.com/file/d/1xkU606Nl_-vzjuCEQ98V1f42E3HhtxnL/view?usp=sharing)
+
+### Lecture Content
+
+- General concepts of eﬃcient inference methods for LLM serving 
+- Speculative decoding systems 
+- Model-based eﬃciency 
+- Paged attention
+- Flash attention
+
