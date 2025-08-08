@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4e1eb25f-494b-47e2-92c9-b32ce7653a28)# AI6130: Large Language Models
+# AI6130: Large Language Models
 
 # Course Objectives
 
@@ -51,6 +51,7 @@ By the end of this course, you should be able to:
 
 # Course Prerequisites
 
+- Proficiency in Deep Learning models
 - Proficiency in Python (using Numpy and PyTorch)
 - Deep Learning and NLP basics 
 
@@ -81,7 +82,7 @@ By the end of this course, you should be able to:
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/1IJ5qWqzIQcFWNmL5bChMzuYO1Ujg9TMe/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1orix_P1NfA6BX7lQTcaS-aQIDii_-gC_/view?usp=sharing)
 
 ### Lecture Content
 
@@ -103,6 +104,7 @@ By the end of this course, you should be able to:
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
+<!--
 ## Week 2: Neural Networks & Optimization Basics
 
 [Lecture Slide](https://drive.google.com/file/d/1uEzjPEZh4gNL8sp40AlAYktdb6gLDBJm/view?usp=sharing)
@@ -307,3 +309,4 @@ Instruction for final project report [here](https://drive.google.com/file/d/1_7U
 - Paged attention
 - Flash attention
 
+-->
