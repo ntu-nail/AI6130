@@ -126,11 +126,11 @@ By the end of this course, you should be able to:
   - Self-attention
   - Positional encoding
   - Multi-head attention
-  - 
+    
 ### Practical exercise with Pytorch
 
 - [Deep learning with PyTorch](https://colab.research.google.com/drive/1aZVfsPUko-ugt1TVCmRwqGJXlxEJVaTq?usp=sharing)
-- [Linear Regressionn](https://colab.research.google.com/drive/12QpBf7x_Jt6-zypN4OrUFFHXz1u6CmYe?usp=sharing)
+- [Linear Regression](https://colab.research.google.com/drive/12QpBf7x_Jt6-zypN4OrUFFHXz1u6CmYe?usp=sharing)
 - [Logistic Regression](https://colab.research.google.com/drive/1nTrYW5dUu6WO9cx7SGEvP9oX7qRbsGJk?usp=sharing)
 - [Numpy notebook](https://colab.research.google.com/drive/1IAonxZnZjJb0_xUVWHt5atIxaI5GTJQ2) [Pytorch notebook](https://colab.research.google.com/drive/1YzZrMAmJ3hjvJfNIdGxae9kxGABG6yaT)
   - Backpropagation
@@ -138,6 +138,9 @@ By the end of this course, you should be able to:
   - Batch normalization
   - Initialization
   - Gradient clipping
+
+### Suggested Readings
+
 - Word2Vec Tutorial - The Skip-Gram Model, [blog](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings](https://www.aclweb.org/anthology/D15-1168/)
