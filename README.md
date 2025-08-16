@@ -104,10 +104,10 @@ By the end of this course, you should be able to:
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-<!--
+
 ## Week 2: Neural Networks & Optimization Basics
 
-[Lecture Slide](https://drive.google.com/file/d/1uEzjPEZh4gNL8sp40AlAYktdb6gLDBJm/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1OGiDURG2yVF_eSvJOxOj4w15MsG8G6yL/view?usp=sharing)
 
 ### Lecture Content
 
@@ -119,7 +119,14 @@ By the end of this course, you should be able to:
 - CNN
 - RNN
 - RNN variants
-- Attention
+- Information bottleneck issue with vanilla Seq2Seq
+- Attention to the rescue
+- Details of attention mechanism
+- Transformer architecture
+  - Self-attention
+  - Positional encoding
+  - Multi-head attention
+  - 
 ### Practical exercise with Pytorch
 
 - [Deep learning with PyTorch](https://colab.research.google.com/drive/1aZVfsPUko-ugt1TVCmRwqGJXlxEJVaTq?usp=sharing)
@@ -136,8 +143,11 @@ By the end of this course, you should be able to:
 - [Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings](https://www.aclweb.org/anthology/D15-1168/)
 - [Sequence to Sequence Learning with Neural Networks (original seq2seq NMT paper)](https://arxiv.org/pdf/1409.3215.pdf)
 - [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)
+- [Neural Machine Translation by Jointly Learning to Align and Translate (original seq2seq+attention paper)](https://arxiv.org/pdf/1409.0473.pdf)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
-
+<!--
 ## Week 3: Language Models
 
 [Lecture Slide](https://drive.google.com/file/d/1IUgxN21v2u528hWvOtOiiLJN_J_1CH74/view?usp=sharing)
