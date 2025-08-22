@@ -150,12 +150,10 @@ By the end of this course, you should be able to:
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
-<!--
+
 ## Week 3: Language Models
 
-[Lecture Slide](https://drive.google.com/file/d/1IUgxN21v2u528hWvOtOiiLJN_J_1CH74/view?usp=sharing)
-
-[Recording of Lecture 3](https://drive.google.com/file/d/1CiqGLKrAMRRuVdrgzx4Ce_UcFqCLUCKk/view?usp=drive_link)
+[Lecture Slide](https://drive.google.com/file/d/1cfMOOoJ0Wg6oesQt3KQ76p6o9ivIvBTV/view?usp=sharing)
 
 ### Lecture Content
 
@@ -175,6 +173,7 @@ By the end of this course, you should be able to:
 - [Karpathy’s nice blog on Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Building an Efficient Neural Language Model](https://research.fb.com/building-an-efficient-neural-language-model-over-a-billion-words/)
 
+<!--
 ## Week 4: Attention and Transformer
 
 [Lecture Slide](https://drive.google.com/file/d/1rNQctj-bg8NwDjeftIty6B_9rbrWiYxB/view?usp=sharing)
