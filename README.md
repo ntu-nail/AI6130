@@ -198,10 +198,10 @@ By the end of this course, you should be able to:
 - Noam Shazeer. 2019. Fast transformer decoding: One write-head is all you need.
 - DeepSeek team. DeepSeek-V2
 
-<!--
-## Week 6: Pretrained Language Models and Large Language Models
 
-[Lecture Slide](https://drive.google.com/file/d/1KTQMf2Tg5rqEZgdEFdTNkGCeEATG4ytW/view?usp=sharing)
+## Week 5: Pretrained Language Models and Large Language Models
+
+[Lecture Slide](https://drive.google.com/file/d/1KQkNeu7kxPJ6XCjFqYVVhQTGDRcY3DLc/view?usp=sharing)
 
 ### Lecture Content
 - About pre-training
@@ -225,6 +225,7 @@ By the end of this course, you should be able to:
 - Using pretrained language model for classification: https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/pytorch/sequence_classification.ipynb
 - LLM prompting: https://huggingface.co/docs/transformers/main/en/tasks/prompting
 
+<!--
 ## Week 7: LLM finetuning
 
 [Lecture Slide](https://drive.google.com/file/d/1mosUrnlqv5_x8g_OohxscGBUn_dJNxAg/view?usp=sharing)
