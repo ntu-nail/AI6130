@@ -230,8 +230,6 @@ By the end of this course, you should be able to:
 
 [Lecture Slide](https://drive.google.com/file/d/1uw-inqPPwylBzm6wcQxFbHI_SV-SieWo/view?usp=sharing)
 
-Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhVcusmjQCb-_uuWUd/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 24 March 2025**.
-
 ### Lecture Content
 
 - LLM full finetuning
@@ -243,6 +241,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhV
 ## Week 8: Instruction tuning & RLHF
 
 [Lecture Slide](https://drive.google.com/file/d/1YV4tGxIMLw0DDniJ9MWQ4OkiondyNc3z/view?usp=sharing)
+Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhVcusmjQCb-_uuWUd/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 24 March 2025**.
 
 ### Lecture Content
 
