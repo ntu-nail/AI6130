@@ -225,10 +225,10 @@ By the end of this course, you should be able to:
 - Using pretrained language model for classification: https://colab.research.google.com/github/huggingface/notebooks/blob/main/transformers_doc/en/pytorch/sequence_classification.ipynb
 - LLM prompting: https://huggingface.co/docs/transformers/main/en/tasks/prompting
 
-<!--
-## Week 7: LLM finetuning
 
-[Lecture Slide](https://drive.google.com/file/d/1mosUrnlqv5_x8g_OohxscGBUn_dJNxAg/view?usp=sharing)
+## Week 6: LLM finetuning
+
+[Lecture Slide](https://drive.google.com/file/d/1uw-inqPPwylBzm6wcQxFbHI_SV-SieWo/view?usp=sharing)
 
 Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhVcusmjQCb-_uuWUd/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 24 March 2025**.
 
@@ -239,6 +239,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhV
 - Parameter-efficient finetuning
 - Instruction finetuning
 
+<!--
 ## Week 8: Instruction tuning & RLHF
 
 [Lecture Slide](https://drive.google.com/file/d/1YV4tGxIMLw0DDniJ9MWQ4OkiondyNc3z/view?usp=sharing)
