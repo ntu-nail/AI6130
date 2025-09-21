@@ -240,6 +240,8 @@ By the end of this course, you should be able to:
 
 ## Week 7: Instruction tuning & RLHF
 
+Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHqt4kFdQW0vK4lVl7/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 13 Oct 2025**.
+
 [Lecture Slide](https://drive.google.com/file/d/1a_M071SShyrgpg1_Hygtm6MYzQLvH4oN/view?usp=sharing)
 
 
@@ -252,7 +254,7 @@ By the end of this course, you should be able to:
 
 <!--
 ## Week 9: RLHF recap & DPO
-Assignment 1 is out [here](https://docs.google.com/document/d/13ZgSgM5fF_5B_vFhVcusmjQCb-_uuWUd/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 24 March 2025**.
+
 [Lecture Slide](https://drive.google.com/file/d/1IKYgns-6uDrF2dqF0eJnynAeh9VIQzYH/view?usp=sharing)
 
 ### Lecture Content
