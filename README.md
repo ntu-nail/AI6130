@@ -252,10 +252,10 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 - LIMA: Less Is More for Alignment
 - Instructed GPT
 
-<!--
-## Week 9: RLHF recap & DPO
 
-[Lecture Slide](https://drive.google.com/file/d/1IKYgns-6uDrF2dqF0eJnynAeh9VIQzYH/view?usp=sharing)
+## Week 8: RLHF recap & DPO
+
+[Lecture Slide](https://drive.google.com/file/d/15DZdO-6f9rk4oR__XFrngrKzhfqO3y3h/view?usp=sharing)
 
 ### Lecture Content
 
@@ -263,6 +263,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 - Direct preference optimization (DPO)
 - Frontier, pitfalls and open problems of RLHF
 
+<!--
 ## Week 10: LLM Prompting
 
 [Lecture Slide](https://drive.google.com/file/d/15YAo6GjRGwbMuNO_BuJK_Jic7VuvRLSg/view?usp=sharing)
