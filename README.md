@@ -282,7 +282,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 
 [Lecture Slide](https://drive.google.com/file/d/1LquDToXDwwaw24fnU4-fZLdhKfdLZI1v/view?usp=sharing)
 
-Instruction for final project report [here](https://drive.google.com/file/d/1_7UxmBsWNZDHhs9hv8mWvbw6muTZJFT2/view?usp=sharing)
+
 
 ### Lecture Content
 
@@ -296,7 +296,7 @@ Instruction for final project report [here](https://drive.google.com/file/d/1_7U
 ## Week 12: Eﬃcient Inference Methods
 
 Assignment 2 is out [here](https://docs.google.com/document/d/1iVhPjFRVUMn9yBpoEbYVw_7jx9QdxtSt/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 22 April 2025**.
-
+Instruction for final project report [here](https://drive.google.com/file/d/1_7UxmBsWNZDHhs9hv8mWvbw6muTZJFT2/view?usp=sharing)
 [Lecture Slide](https://drive.google.com/file/d/1xkU606Nl_-vzjuCEQ98V1f42E3HhtxnL/view?usp=sharing)
 
 ### Lecture Content
