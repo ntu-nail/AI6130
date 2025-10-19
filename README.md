@@ -277,12 +277,10 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 - Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
 - Measuring and Narrowing the Compositionality Gap in Language Models
 
-<!--
-## Week 11: Retrieval-augmented LMs
 
-[Lecture Slide](https://drive.google.com/file/d/1TKDO6LlSiDJ6RTQdXe-tVXFQFp3rzZm8/view?usp=sharing)
+## Week 10: Retrieval-augmented LMs
 
-Assignment 2 is out [here](https://docs.google.com/document/d/1iVhPjFRVUMn9yBpoEbYVw_7jx9QdxtSt/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 22 April 2025**.
+[Lecture Slide](https://drive.google.com/file/d/1LquDToXDwwaw24fnU4-fZLdhKfdLZI1v/view?usp=sharing)
 
 Instruction for final project report [here](https://drive.google.com/file/d/1_7UxmBsWNZDHhs9hv8mWvbw6muTZJFT2/view?usp=sharing)
 
@@ -294,7 +292,10 @@ Instruction for final project report [here](https://drive.google.com/file/d/1_7U
 - Past: Architecture and training of retrieval-augmented LMs for downstream tasks
 - Present: Retrieval-augmented generation with LLMs
 
+<!--
 ## Week 12: Eﬃcient Inference Methods
+
+Assignment 2 is out [here](https://docs.google.com/document/d/1iVhPjFRVUMn9yBpoEbYVw_7jx9QdxtSt/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 22 April 2025**.
 
 [Lecture Slide](https://drive.google.com/file/d/1xkU606Nl_-vzjuCEQ98V1f42E3HhtxnL/view?usp=sharing)
 
