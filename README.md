@@ -293,7 +293,7 @@ Instruction for final project report [here](https://drive.google.com/file/d/1BVQ
 - Present: Retrieval-augmented generation with LLMs
 
 
-## Week 12: Eﬃcient Inference Methods
+## Week 12: Efficient Inference Methods
 
 [Lecture Slide](https://drive.google.com/file/d/1KgnUCeLatgpNKQoO3egNeYlIb7l3hKGh/view?usp=sharing)
 
