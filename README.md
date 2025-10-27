@@ -293,7 +293,9 @@ Instruction for final project report [here](https://drive.google.com/file/d/1BVQ
 - Present: Retrieval-augmented generation with LLMs
 
 
-## Week 12: Efficient Inference Methods
+## Week 11: Efficient Inference Methods
+
+Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOpTZo8wSdSPfB1MrZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 17 Nov 2025**.
 
 [Lecture Slide](https://drive.google.com/file/d/1KgnUCeLatgpNKQoO3egNeYlIb7l3hKGh/view?usp=sharing)
 
@@ -306,6 +308,6 @@ Instruction for final project report [here](https://drive.google.com/file/d/1BVQ
 - Flash attention
 
 <!--
-Assignment 2 is out [here](https://docs.google.com/document/d/1iVhPjFRVUMn9yBpoEbYVw_7jx9QdxtSt/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 22 April 2025**.
+
 Instruction for final project report [here](https://drive.google.com/file/d/1_7UxmBsWNZDHhs9hv8mWvbw6muTZJFT2/view?usp=sharing)
 -->
