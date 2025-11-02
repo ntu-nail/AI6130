@@ -307,6 +307,10 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOp
 - Paged attention
 - Flash attention
 
+## Week 12: LLM agents and Agentic AI
+
+**Move to week 13**
+
 <!--
 
 Instruction for final project report [here](https://drive.google.com/file/d/1_7UxmBsWNZDHhs9hv8mWvbw6muTZJFT2/view?usp=sharing)
