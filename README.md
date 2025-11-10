@@ -311,7 +311,4 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOp
 
 **Move to week 13**
 
-<!--
-
-Instruction for final project report [here](https://drive.google.com/file/d/1_7UxmBsWNZDHhs9hv8mWvbw6muTZJFT2/view?usp=sharing)
--->
+[Lecture Slide](https://drive.google.com/file/d/1YmpPxcqzV8ef-X5u3bncwRsNPip0mJI9/view?usp=sharing)
