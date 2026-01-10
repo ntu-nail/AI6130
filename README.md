@@ -104,7 +104,7 @@ By the end of this course, you should be able to:
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-
+<!--
 ## Week 2: Neural Networks & Optimization Basics
 
 [Lecture Slide](https://drive.google.com/file/d/1OGiDURG2yVF_eSvJOxOj4w15MsG8G6yL/view?usp=sharing)
@@ -312,3 +312,4 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOp
 **Move to week 13**
 
 [Lecture Slide](https://drive.google.com/file/d/1YmpPxcqzV8ef-X5u3bncwRsNPip0mJI9/view?usp=sharing)
+-->
