@@ -82,7 +82,7 @@ By the end of this course, you should be able to:
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/1orix_P1NfA6BX7lQTcaS-aQIDii_-gC_/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1k9IAYl8cUAFZxGNqzkQ2yTjoHpOsmvxq/view?usp=sharing)
 
 ### Lecture Content
 
