@@ -150,7 +150,7 @@ By the end of this course, you should be able to:
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
-<!--
+
 ## Week 3: Language Models
 
 [Lecture Slide](https://drive.google.com/file/d/1cfMOOoJ0Wg6oesQt3KQ76p6o9ivIvBTV/view?usp=sharing)
@@ -174,7 +174,7 @@ By the end of this course, you should be able to:
 - [Building an Efficient Neural Language Model](https://research.fb.com/building-an-efficient-neural-language-model-over-a-billion-words/)
 
 
-
+<!--
 ## Week 4: Effective Transformers
 
 [Lecture Slide](https://drive.google.com/file/d/1gxwWO3uMbUT7QK2R0UOFhp4HuCGSkcu-/view?usp=sharing)
