@@ -153,6 +153,10 @@ By the end of this course, you should be able to:
 
 ## Week 3: Language Models
 
+[Instruction to choose final project's topic](https://drive.google.com/file/d/1DPS7vx1pa6k5rZM1rbIJl5vW4KtmDSvk/view?usp=sharing)
+
+[Final project's group list](https://docs.google.com/spreadsheets/d/1rtQcBkbgpK8Sbn42Ffq2b15nThiV8t-7_f--6YMvHOM/edit?usp=drive_link)
+
 [Lecture Slide](https://drive.google.com/file/d/1cfMOOoJ0Wg6oesQt3KQ76p6o9ivIvBTV/view?usp=sharing)
 
 ### Lecture Content
@@ -179,7 +183,7 @@ By the end of this course, you should be able to:
 
 [Lecture Slide](https://drive.google.com/file/d/1gxwWO3uMbUT7QK2R0UOFhp4HuCGSkcu-/view?usp=sharing)
 
-[Instruction to choose final project's topic](https://drive.google.com/file/d/1DPS7vx1pa6k5rZM1rbIJl5vW4KtmDSvk/view?usp=sharing)
+
 
 ### Lecture Content
 
