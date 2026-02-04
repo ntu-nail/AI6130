@@ -178,7 +178,7 @@ By the end of this course, you should be able to:
 - [Building an Efficient Neural Language Model](https://research.fb.com/building-an-efficient-neural-language-model-over-a-billion-words/)
 
 
-<!--
+
 ## Week 4: Effective Transformers
 
 [Lecture Slide](https://drive.google.com/file/d/1gxwWO3uMbUT7QK2R0UOFhp4HuCGSkcu-/view?usp=sharing)
@@ -202,7 +202,7 @@ By the end of this course, you should be able to:
 - Noam Shazeer. 2019. Fast transformer decoding: One write-head is all you need.
 - DeepSeek team. DeepSeek-V2
 
-
+<!--
 ## Week 5: Pretrained Language Models and Large Language Models
 
 [Lecture Slide](https://drive.google.com/file/d/1KQkNeu7kxPJ6XCjFqYVVhQTGDRcY3DLc/view?usp=sharing)
