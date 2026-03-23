@@ -284,6 +284,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 
 ## Week 10: Retrieval-augmented LMs
 
+Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOpTZo8wSdSPfB1MrZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 13 Apr 2026**.
+
 Instructions for Final project report [here](https://docs.google.com/document/d/1YeqcMhRGwzV5_lwhsqmlLWJGlw9Vktp-/edit?usp=drive_link&ouid=118265590333925180950&rtpof=true&sd=true)
 
 [Lecture Slide](https://drive.google.com/file/d/1LquDToXDwwaw24fnU4-fZLdhKfdLZI1v/view?usp=sharing)
@@ -301,7 +303,7 @@ Instructions for Final project report [here](https://docs.google.com/document/d/
 <!--
 ## Week 11: Efficient Inference Methods
 
-Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOpTZo8wSdSPfB1MrZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 17 Nov 2025**.
+
 
 [Lecture Slide](https://drive.google.com/file/d/1KgnUCeLatgpNKQoO3egNeYlIb7l3hKGh/view?usp=sharing)
 
