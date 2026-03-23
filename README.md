@@ -284,6 +284,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 
 ## Week 10: Retrieval-augmented LMs
 
+Instructions for Final project report [here](https://docs.google.com/document/d/1YeqcMhRGwzV5_lwhsqmlLWJGlw9Vktp-/edit?usp=drive_link&ouid=118265590333925180950&rtpof=true&sd=true)
+
 [Lecture Slide](https://drive.google.com/file/d/1LquDToXDwwaw24fnU4-fZLdhKfdLZI1v/view?usp=sharing)
 
 
@@ -303,7 +305,7 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOp
 
 [Lecture Slide](https://drive.google.com/file/d/1KgnUCeLatgpNKQoO3egNeYlIb7l3hKGh/view?usp=sharing)
 
-Instruction for final project report [here](https://drive.google.com/file/d/1BVQoxehsf3VrwolFTvzrfqBdb5Xm72tz/view?usp=sharing)
+
 
 ### Lecture Content
 
