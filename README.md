@@ -314,7 +314,7 @@ Instructions for Final project report [here](https://docs.google.com/document/d/
 - Flash attention
 
 
-## Week 12: LLM agents and Agentic AI
+## Week 12: LLM agents and Agentic RAG
 
 [Lecture Slide](https://drive.google.com/file/d/1YmpPxcqzV8ef-X5u3bncwRsNPip0mJI9/view?usp=sharing)
 
