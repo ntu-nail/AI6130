@@ -82,7 +82,7 @@ By the end of this course, you should be able to:
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/1k9IAYl8cUAFZxGNqzkQ2yTjoHpOsmvxq/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1PqFX3P7i9WxWagpFm907CABeFFEasNWU/view?usp=sharing)
 
 ### Lecture Content
 
@@ -104,7 +104,7 @@ By the end of this course, you should be able to:
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-
+<!--
 ## Week 2: Neural Networks & Optimization Basics
 
 [Lecture Slide](https://drive.google.com/file/d/1SV4TQ700g6ENY20XxsbZ7FcU3Qoe45yk/view?usp=sharing)
