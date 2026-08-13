@@ -69,12 +69,10 @@ By the end of this course, you should be able to:
 
 <p align="center" width="100%">Teaching Assistants</p>
 
-<p align="center" width="100%">
-    <img width="20%" src="/assets/images/ntcd.png"> 
-</p>
 
-<p align="center" width="100%">Nguyen Tran Cong Duy</p>
-<p align="center" width="100%">NGUYENTR003@e.ntu.edu.sg</p>
+
+<p align="center" width="100%">Xu Huimin</p>
+<p align="center" width="100%">HUIMIN003@e.ntu.edu.sg</p>
 
 
 
