@@ -102,7 +102,7 @@ By the end of this course, you should be able to:
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-<!--
+
 ## Week 2: Neural Networks & Optimization Basics
 
 [Lecture Slide](https://drive.google.com/file/d/1SV4TQ700g6ENY20XxsbZ7FcU3Qoe45yk/view?usp=sharing)
@@ -148,7 +148,7 @@ By the end of this course, you should be able to:
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 
-
+<!--
 ## Week 3: Language Models
 
 [Instruction to choose final project's topic](https://drive.google.com/file/d/1DPS7vx1pa6k5rZM1rbIJl5vW4KtmDSvk/view?usp=sharing)
