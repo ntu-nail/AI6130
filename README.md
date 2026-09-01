@@ -174,7 +174,7 @@ By the end of this course, you should be able to:
 - [N-gram Language Models](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 - [Karpathy’s nice blog on Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Building an Efficient Neural Language Model](https://research.fb.com/building-an-efficient-neural-language-model-over-a-billion-words/)
-<!--
+
 
 
 ## Week 4: Effective Transformers
@@ -200,7 +200,7 @@ By the end of this course, you should be able to:
 - Noam Shazeer. 2019. Fast transformer decoding: One write-head is all you need.
 - DeepSeek team. DeepSeek-V2
 
-
+<!--
 ## Week 5: Pretrained Language Models and Large Language Models
 
 [Lecture Slide](https://drive.google.com/file/d/1KQkNeu7kxPJ6XCjFqYVVhQTGDRcY3DLc/view?usp=sharing)
