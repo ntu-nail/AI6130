@@ -239,10 +239,10 @@ By the end of this course, you should be able to:
 - Parameter-efficient finetuning
 - Instruction finetuning
 
-<!--
+
 ## Week 7: Instruction tuning & RLHF
 
-Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHqt4kFdQW0vK4lVl7/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 16 March 2026**.
+Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHqt4kFdQW0vK4lVl7/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 14 October 2026**.
 
 [Lecture Slide](https://drive.google.com/file/d/1a_M071SShyrgpg1_Hygtm6MYzQLvH4oN/view?usp=sharing)
 
@@ -254,7 +254,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 - LIMA: Less Is More for Alignment
 - Instructed GPT
 
-
+<!--
 ## Week 8: RLHF recap & DPO
 
 [Lecture Slide](https://drive.google.com/file/d/15DZdO-6f9rk4oR__XFrngrKzhfqO3y3h/view?usp=sharing)
