@@ -265,7 +265,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 - Direct preference optimization (DPO)
 - Frontier, pitfalls and open problems of RLHF
 
-<!--
+
 ## Week 9: LLM Prompting
 
 [Lecture Slide](https://drive.google.com/file/d/1ya_AKigD_oEf-9hTCGZ1sN38C_Tcxdj1/view?usp=sharing)
@@ -279,7 +279,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 - Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
 - Measuring and Narrowing the Compositionality Gap in Language Models
 
-
+<!--
 ## Week 10: Retrieval-augmented LMs
 
 Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOpTZo8wSdSPfB1MrZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 13 Apr 2026**.
