@@ -279,10 +279,10 @@ Assignment 1 is out [here](https://docs.google.com/document/d/1bmu1geB8R8PXamjHq
 - Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
 - Measuring and Narrowing the Compositionality Gap in Language Models
 
-<!--
+
 ## Week 10: Retrieval-augmented LMs
 
-Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOpTZo8wSdSPfB1MrZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 13 Apr 2026**.
+Assignment 2 is out [here](https://docs.google.com/document/d/1lfCqW-3Zk-VVVoIOpTZo8wSdSPfB1MrZ/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 14 Nov 2026**.
 
 Instructions for Final project report [here](https://docs.google.com/document/d/1YeqcMhRGwzV5_lwhsqmlLWJGlw9Vktp-/edit?usp=drive_link&ouid=118265590333925180950&rtpof=true&sd=true)
 
@@ -298,7 +298,7 @@ Instructions for Final project report [here](https://docs.google.com/document/d/
 - Past: Architecture and training of retrieval-augmented LMs for downstream tasks
 - Present: Retrieval-augmented generation with LLMs
 
-
+<!--
 ## Week 11: Efficient Inference Methods
 
 [Lecture Slide](https://drive.google.com/file/d/1KgnUCeLatgpNKQoO3egNeYlIb7l3hKGh/view?usp=sharing)
